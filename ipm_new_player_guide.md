@@ -30,6 +30,11 @@ an optimized approach to mining the first 20 planets.
 
 # Section 1: What is Idle Planet Miner
 
+The following sections present the core ideas behind  
+IPM. In order you will know the most important game  
+elements down to, in my opinion only, the least  
+important ones.
+
 # Selling Your Galaxy  
 "Rebooting" starts you over from day 1, but you  
 keep managers, stars, credits, DM, rover  
