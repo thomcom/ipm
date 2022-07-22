@@ -285,3 +285,41 @@ minor items that you will need to get to planet 20.
 
 # Section 2: First 20 planets Walkthrough  
 
+Buy No Ads
+Click Settings -> Show Galaxy Value
+Like any other clicker game, click on anything the game tells you to.
+Buy planets and upgrade them.
+10M - sell
+Make money. Do not auto sell.
+Market optimize when you can.
+
+Save 5000 lead to get Crafter
+Save 5000 more lead and Smelt it to get Planets 8-10
+
+
+Projects
+
+Crafter
+
+Crafting
+
+Sell everything but Iron then buy Iron Nail and craft them.
+
+Planets 1-4
+
+You get them for free. Keep their levels equal.
+
+Planets 5-7
+
+You get them after you've crafted some copper bars.
+
+Planets 8-10
+
+You get them after you've crafted iron bars and saved up a lot of lead.
+
+Planets 11-13
+Planets 14-16
+Planets 17-19
+Planets 20-22
+
+
