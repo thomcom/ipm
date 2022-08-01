@@ -344,41 +344,51 @@ won't keep the GV increase.
 
 ## 2. Build order
 
+Telescope 0: Planets 1-4  
+
+You get them for free. Keep their levels equal.  
+
+
 2.1 Projects  
 Asteroid Miner
 Management
 Smelter
-Telescope 1
-Telescope 2
-Save 5000 more lead and Smelt it to get Planets 8-10  
-Rover
-Save 5000 lead to get Crafter  
-Telescope 3
 
-Crafter  
+2.2 Telescope 1: Planets 5-7  
+
+You get them after you've crafted some copper bars.  
+
+
+2.3 Telescope 2: Planets 8-10  
+
+You get them after you've crafted iron bars and saved up a lot of lead.  
+
+Save 5000 more lead and Smelt it to get Planets 8-10  
+
+2.4 Rover
+
+Save 5000 lead to get Crafter  
+
+4rafter  
+
+
+Planets 11-13  
+
+Crafting ten nails will require 50 iron bars, which requires 50000 iron.  
+
+Keep iron above this level and let the crafter run.
+
+Telescope 3
 
 Crafting  
 
 Sell everything but Iron then buy Iron Nail and craft them.  
 
-Planets 1-4  
-
-You get them for free. Keep their levels equal.  
-
-Planets 5-7  
-
-You get them after you've crafted some copper bars.  
-
-Planets 8-10  
-
-You get them after you've crafted iron bars and saved up a lot of lead.  
-
-Planets 11-13  
-
-Crafting ten nails will require 50 iron bars, which requires 50000 iron.  
-Keep iron above this level and let the crafter run.
-
 Planets 14-16  
+
+25 lead bars
+5 hammers = 10 nails = 50 iron bars
+
 Planets 17-19  
 Planets 20-22   
 
