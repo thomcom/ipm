@@ -290,41 +290,96 @@ minor items that you will need to get to planet 20.
 
 # Section 2: First 20 planets Walkthrough  
 
-Buy No Ads
-Click Settings -> Show Galaxy Value
-Like any other clicker game, click on anything the game tells you to.
-Buy planets and upgrade them.
-10M - sell
-Make money. Do not auto sell.
-Market optimize when you can.
+1.1 Buy No Ads:
 
-Save 5000 lead to get Crafter
-Save 5000 more lead and Smelt it to get Planets 8-10
+ARKing (pressing the ad button) is a core mechanic of IPM.  
+Per of clicking the ARK button your galaxy will grow by 16% value and  
+you will gain 60 DM. If you keep more than 50% of your Galaxy Value  
+(GV) in cash $, then your GV will grow by 33% per hour or Arking. This  
+in the late game is the fastest mechanism of advancement. In the early  
+game, mining is the fastest, the mid game, crafting is the fastest,  
+and in the late game only ARKing can really show progress.  
 
+1.2 Click Settings -> Show Galaxy Value  
 
-Projects
+Galaxy Value (GV) is the primary currency in Idle Planet Miner. Enable  
+it's constant display in the Settings menu.  
 
-Crafter
+1.3 Like any other clicker game, click on anything the game tells you to.  
 
-Crafting
+Follow the tutorials. Collect cash and DM by clicking icons with red dots  
+on them.
 
-Sell everything but Iron then buy Iron Nail and craft them.
+1.4 Buy planets and upgrade them.
 
-Planets 1-4
+In order to advance, buy planets and upgrade them. Most planets perform  
+best when all three purchase levels are the same: mine rate, ship speed,  
+and cargo capacity. Increasing mine rate often feels like a superior  
+strategy but unless you can get the ore off planet, it does not help  
+GV. When you have extra cargo and speed managers, they can help you  
+offload planets that mine more than they can return to the mothership.  
 
-You get them for free. Keep their levels equal.
+1.5 10M - sell  
 
-Planets 5-7
+When you reach 10_000_000 GV, sell your galaxy to purchase your first  
+two mothership rooms: Smelt speed, ship speed, or cargo capacity. Each  
+time you reach 10M for the first three playthroughs, sell your galaxy  
+and buy more mothership rooms.
 
-You get them after you've crafted some copper bars.
+1.6 Make money. Do not auto sell.  
 
-Planets 8-10
+You will begin to build up ore on your mothership. Once per hour, play  
+the game and sell 70% of your ore for money to upgrade your existing  
+planets.
 
-You get them after you've crafted iron bars and saved up a lot of lead.
+1.7 Market optimize when you can.
 
-Planets 11-13
-Planets 14-16
-Planets 17-19
-Planets 20-22
+The Market button shows you which ores and items are most valuable. If  
+you have time, increase the mine rate and production rate of items with  
+increased market value to maximize your galaxy value during this time.  
+Remember to sell the items and ore before the market expires or you  
+won't keep the GV increase.
+
+1.8 Mining in IPM is throttled when the app is not in the foreground.
+
+## 2. Build order
+
+2.1 Projects  
+Asteroid Miner
+Management
+Smelter
+Telescope 1
+Telescope 2
+Save 5000 more lead and Smelt it to get Planets 8-10  
+Rover
+Save 5000 lead to get Crafter  
+Telescope 3
+
+Crafter  
+
+Crafting  
+
+Sell everything but Iron then buy Iron Nail and craft them.  
+
+Planets 1-4  
+
+You get them for free. Keep their levels equal.  
+
+Planets 5-7  
+
+You get them after you've crafted some copper bars.  
+
+Planets 8-10  
+
+You get them after you've crafted iron bars and saved up a lot of lead.  
+
+Planets 11-13  
+
+Crafting ten nails will require 50 iron bars, which requires 50000 iron.  
+Keep iron above this level and let the crafter run.
+
+Planets 14-16  
+Planets 17-19  
+Planets 20-22   
 
 
