@@ -369,7 +369,7 @@ Save 5000 more lead and Smelt it to get Planets 8-10
 
 Save 5000 lead to get Crafter  
 
-4rafter  
+Crafter  
 
 
 Planets 11-13  
